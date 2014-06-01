@@ -1,0 +1,82 @@
+// Pivô na ponta
+
+n = 50.000
+
+MELHOR CASO
+
+bubblesort: 	5.530
+insertionsort:	0.000
+mergesort: 	0.010
+quicksort: 	3.060
+
+PIOR CASO
+
+bubblesort: 	11.470
+insertionsort: 	6.620
+mergesort: 	0.010
+quicksort: 	3.050
+
+n = 60.000
+
+MELHOR CASO
+
+bubblesort:	7.920
+insertionsort:	0.000
+mergesort:	0.020
+quicksort:	4.440
+
+PIOR CASO 
+ 
+bubblesort:	16.390
+insertionsort:	9.430
+mergesort:	0.020
+quicksort:	4.438
+
+n = 70.000
+
+MELHOR CASO
+
+bubblesort:	10.720
+insertionsort:	0.000
+mergesort:	0.020
+quicksort:	6.000
+
+PIOR CASO
+
+bubblesort:	22.330
+insertionsort:	12.900
+mergesort:	0.020
+quicksort:	5.930
+
+n = 80.000
+
+MELHOR CASO
+
+bubblesort:	14.020
+insertionsort:	0.000
+mergesort:	0.020
+quicksort:	7.780
+
+PIOR CASO
+
+bubblesort:	29.120
+insertionsort:	16.780
+mergesort:	0.020
+quicksort:	7.780
+
+n = 90.000
+
+MELHOR CASO
+
+bubblesort:	17.950
+insertionsort:	0.000
+mergesort:	0.020
+quicksort:	9.860
+
+PIOR CASO
+
+bubblesort:	37.070
+insertionsort:	21.260
+mergesort:	0.020
+quicksort:	9.790
+

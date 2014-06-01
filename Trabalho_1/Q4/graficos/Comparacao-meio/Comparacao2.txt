@@ -1,0 +1,82 @@
+// Pivô no meio
+
+n = 50.000
+
+MELHOR CASO
+
+bubblesort: 	5.520
+insertionsort:	0.000
+mergesort: 	0.010
+quicksort: 	0.000
+
+PIOR CASO
+
+bubblesort: 	11.550
+insertionsort: 	6.610
+mergesort: 	0.010
+quicksort: 	0.000
+
+n = 60.000
+
+MELHOR CASO
+
+bubblesort:	7.890
+insertionsort:	0.000
+mergesort:	0.020
+quicksort:	0.010
+
+PIOR CASO 
+ 
+bubblesort:	16.480
+insertionsort:	9.450
+mergesort:	0.010
+quicksort:	0.010
+
+n = 70.000
+
+MELHOR CASO
+
+bubblesort:	10.940
+insertionsort:	0.000
+mergesort:	0.020
+quicksort:	0.010
+
+PIOR CASO
+
+bubblesort:	22.430
+insertionsort:	12.920
+mergesort:	0.010
+quicksort:	0.010
+
+n = 80.000
+
+MELHOR CASO
+
+bubblesort:	14.150
+insertionsort:	0.000
+mergesort:	0.020
+quicksort:	0.000
+
+PIOR CASO
+
+bubblesort:	29.410
+insertionsort:	16.860
+mergesort:	0.020
+quicksort:	0.000
+
+n = 90.000
+
+MELHOR CASO
+
+bubblesort:	18.010
+insertionsort:	0.000
+mergesort:	0.020
+quicksort:	0.010
+
+PIOR CASO
+
+bubblesort:	36.930
+insertionsort:	21.240
+mergesort:	0.020
+quicksort:	0.010
+
